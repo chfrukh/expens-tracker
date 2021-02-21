@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { ContextProvider } from './context';
+import { ContextProvider } from './Context';
 import ExpenseTracker from './ExpenseTracker';
 import bu from './bu.png';
 import crc from './crc.png';
