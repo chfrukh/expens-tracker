@@ -1,5 +1,5 @@
 import React, { useState, useContext } from 'react';
-import { TransactionContext } from './context';
+import { TransactionContext } from './Context';
 
 function expenseTracker() {
 

@@ -1,5 +1,5 @@
 import React, { createContext, useReducer } from 'react';
-import transactionReducer from './reducer';
+import transactionReducer from './Reducer';
 
 const initialData = []
 
