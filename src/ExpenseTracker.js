@@ -37,7 +37,7 @@ function expenseTracker() {
     return (
         <div className="container">
             <h1 className="text-center">Expense Tracker</h1>
-            <a href  = "https://facebook.com/ch.arrukh" target="_blank"><h5 className="text-center">©ChFarrukh</h5></a>
+            <a href  = "https://www.linkedin.com/in/ch-arrukh/" target="_blank"><h5 className="text-center">©ChFarrukh</h5></a>
             <h3>Your balance <br />$ {getIncome() + getExpense()} </h3>
 
             <div className="total-expense-container">

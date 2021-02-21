@@ -1,3 +1,48 @@
+.header {
+  max-width: 80%;
+  margin: auto;
+  background-color:lightslategray;
+  box-shadow: 6px 0px 10px darkslateblue;
+  min-height: 80%;
+  padding: 20px 50px;
+  margin-top: 2%;  
+}
+.logor{
+  width: 80px;
+  height: 80px;
+  text-align: right;
+  text-align: right;
+  display: block;
+  display: inline-block;
+  margin-right: 5%;
+  width: auto;
+  box-shadow: 6px 0px 10px darkslateblue;
+}
+.logoc{
+  width: 80px;
+  height: 80px;
+  text-align: center;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  margin-right:20%;
+  margin-left: 20%;
+  display: inline-block;
+  width: auto;
+  box-shadow: 6px 0px 10px darkslateblue;
+}
+.logol{
+  width: 80px;
+  height: 80px;
+  text-align: left;
+  text-align: left;
+  align-items: left;
+  width: auto;
+  display: inline-block;
+  margin-left: 5%;
+  margin-right: 5%;
+  box-shadow: 6px 0px 10px darkslateblue;
+}
 .container {
   max-width: 80%;
   margin: 0 auto;
@@ -5,7 +50,6 @@
   box-shadow: 6px 0px 10px darkslateblue;
   min-height: 80%;
   padding: 20px 50px;
-  margin-top: 50px;
 }
 .text-center {
   text-align: center;
